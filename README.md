@@ -1,6 +1,6 @@
 # Forecast API
 
-Hey! So you wanted to check out this project. Here’s the simple breakdown of what it is and how to get it running.
+A backend API built with Node.js, Express, and MongoDB - creating, reading, updating, and deleting users. This project also demonstrates integration with a third-party service to fetch weather data for users based on their stored city.
 
 ## What is this?
 
